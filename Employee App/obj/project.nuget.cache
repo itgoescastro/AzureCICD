@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "we4x3AzfmAfBuwWQJZ3ysHFYBwhhK3T2luv2pPf/a73UNbz+DZxndNv4jV+fcojlpUW6etJxzyWru5tDY9y0RQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Seba Castro\\Documents\\CICD_DUMAS\\AzureCICD\\Employee App\\Employee App.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Seba Castro\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Seba Castro\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
